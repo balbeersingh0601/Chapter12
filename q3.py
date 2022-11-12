@@ -1,0 +1,6 @@
+n=eval(input("ENter number"))
+t1=()
+t1+=(n)
+print(t1)
+print("Maximum of tuple",max(t1))
+print("Minium of tuple",min(t1))
